@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="city_country">Hyderabad, IN</string>
+    <string name="date_today">Sunday, 14 October</string>
+    <string name="current_temperature">35</string>
+    <string name="weather_information">Partly Cloud</string>
+    <string name="temp_information">35, partly cloudy</string>
+    <string name="wind">WIND</string>
+    <string name="wind_speed">xx km/h</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="humidity_rate">xx%</string>
+    <string name="day_of_week">Mon</string>
+    <string name="location_hints">Type city or postcode</string>
+    <string name="permission_notice">This permission is important, else app may not work properly.</string>
+</resources>

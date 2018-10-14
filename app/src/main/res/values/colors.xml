@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#38455B</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#38455B</color>
+    <color name="colorWhiteText">#ffffff</color>
+    <color name="colorBackground">#ffffff</color>
+    <color name="colorCircleStroke">#eaaf02</color>
+    <color name="colorSubTitle">#38455B</color>
+</resources>
